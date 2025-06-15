@@ -1,0 +1,9 @@
+[package]
+name = "Webar"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+# wait for pull request #32651
+#gpui = { git = "https://github.com/zed-industries/zed" }
+gpui = { git = "https://github.com/zeroeightysix/zed" }
